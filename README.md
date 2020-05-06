@@ -1,2 +1,2 @@
 # ARProjects
-This repository creates multiple AR projects.
+This repository contains multiple AR projects.
